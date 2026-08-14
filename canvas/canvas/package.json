@@ -1,0 +1,14 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "A simple CLI drawing program supporting canvas creation, lines, rectangles, and bucket fill.",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
