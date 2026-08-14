@@ -49,7 +49,7 @@ Key `.env` values:
 cd frontend
 cp .env.example .env     # VITE_API_URL should point at the backend
 npm install
-npm run dev               # starts on http://localhost:5173
+npm run dev               # starts on http://localhost:5174
 ```
 
 ## How login works (security level)
